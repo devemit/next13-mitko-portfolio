@@ -10,7 +10,7 @@ const page = () => {
   return (
     <section>
       <h1 className='text-white text-4xl'>About Me.</h1>
-      {/* <p className='text-[#E5E5E5] my-4 '>
+      <p className='text-[#E5E5E5] my-4 '>
         Hi, I am Mitko, a frontend developer specializing in{' '}
         <span className='text-sky-600'>
           React, TypeScript, Nextjs, React Native, CSS, and Tailwind CSS.
@@ -38,8 +38,8 @@ const page = () => {
       <p className='text-[#E5E5E5] my-4'>
         If you are looking for a passionate frontend developer with expertise in
         React, TypeScript, Nextjs, React Native, CSS, and Tailwind CSS, lets
-        connect. Thank you for considering my profile!"
-      </p> */}
+        connect. Thank you for considering my profile!
+      </p>
       <div className='flex gap-2'>
         <ButtonLink label={'Github'} href={'https://github.com/devemit'} />
         <ButtonLink
