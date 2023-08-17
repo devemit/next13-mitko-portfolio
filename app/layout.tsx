@@ -1,5 +1,5 @@
 import Navbar from '@/components/Navbar';
-import './styles/tailwind.css';
+import './globals.css';
 import localFont from 'next/font/local';
 import { Metadata } from 'next';
 
