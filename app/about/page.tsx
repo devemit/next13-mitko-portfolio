@@ -11,7 +11,7 @@ const page = () => {
     <section>
       <h1 className='text-white text-4xl'>About Me.</h1>
       <p className='text-[#E5E5E5] my-4 '>
-        Hi, I'm Mitko, a frontend developer specializing in{' '}
+        Hi, I&apos;m Mitko, a frontend developer specializing in{' '}
         <span className='text-sky-600'>
           React, TypeScript, Next.js, React Native, CSS, and Tailwind CSS.
         </span>{' '}
@@ -20,8 +20,8 @@ const page = () => {
       </p>
       <p className='text-[#E5E5E5] my-4'>
         I excel in building scalable applications using React and TypeScript.
-        I'm also proficient in Next.js for server-side rendering and static site
-        generation. Additionally, I develop cross-platform mobile apps with
+        I&apos;m also proficient in Next.js for server-side rendering and static
+        site generation. Additionally, I develop cross-platform mobile apps with
         React Native. Building state-of-the-art, easy to use, user-friendly
         websites and applications is truly a passion of mine.
       </p>
@@ -32,13 +32,13 @@ const page = () => {
       </p>
       <p className='text-[#E5E5E5] my-4'>
         Collaborating with diverse teams, I prioritize clean code and best
-        practices. I'm always eager to learn and stay up-to-date with industry
-        trends.
+        practices. I&apos;m always eager to learn and stay up-to-date with
+        industry trends.
       </p>
       <p className='text-[#E5E5E5] my-4'>
-        If you're looking for a passionate frontend developer with expertise in
-        React, TypeScript, Next.js, React Native, CSS, and Tailwind CSS, let's
-        connect. Thank you for considering my profile!"
+        If you&apos;re looking for a passionate frontend developer with
+        expertise in React, TypeScript, Next.js, React Native, CSS, and Tailwind
+        CSS, let&apos;s connect. Thank you for considering my profile!"
       </p>
       <div className='flex gap-2'>
         <ButtonLink label={'Github'} href={'https://github.com/devemit'} />
