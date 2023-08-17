@@ -11,7 +11,7 @@ const page = () => {
     <section>
       <h1 className='text-white text-4xl'>About Me.</h1>
       <p className='text-[#E5E5E5] my-4 '>
-        Hi, I&quot;m Mitko, a frontend developer specializing in{' '}
+        Hi, I am Mitko, a frontend developer specializing in{' '}
         <span className='text-sky-600'>
           React, TypeScript, Nextjs, React Native, CSS, and Tailwind CSS.
         </span>{' '}
@@ -19,9 +19,9 @@ const page = () => {
         interfaces.
       </p>
       <p className='text-[#E5E5E5] my-4'>
-        I excel in building scalable applications using React and TypeScript.
-        I&quot;m also proficient in Nextjs for server-side rendering and static
-        site generation. Additionally, I develop cross-platform mobile apps with
+        I excel in building scalable applications using React and TypeScript. I
+        am also proficient in Nextjs for server-side rendering and static site
+        generation. Additionally, I develop cross-platform mobile apps with
         React Native. Building state-of-the-art, easy to use, user-friendly
         websites and applications is truly a passion of mine.
       </p>
@@ -32,13 +32,13 @@ const page = () => {
       </p>
       <p className='text-[#E5E5E5] my-4'>
         Collaborating with diverse teams, I prioritize clean code and best
-        practices. I&quot;m always eager to learn and stay up-to-date with
-        industry trends.
+        practices. I am always eager to learn and stay up-to-date with industry
+        trends.
       </p>
       <p className='text-[#E5E5E5] my-4'>
-        If you&quot;re looking for a passionate frontend developer with
-        expertise in React, TypeScript, Nextjs, React Native, CSS, and Tailwind
-        CSS, let&quot;s connect. Thank you for considering my profile!"
+        If you are looking for a passionate frontend developer with expertise in
+        React, TypeScript, Nextjs, React Native, CSS, and Tailwind CSS, lets
+        connect. Thank you for considering my profile!"
       </p>
       <div className='flex gap-2'>
         <ButtonLink label={'Github'} href={'https://github.com/devemit'} />
