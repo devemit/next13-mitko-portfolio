@@ -13,14 +13,14 @@ const page = () => {
       <p className='text-[#E5E5E5] my-4 '>
         Hi, I&apos;m Mitko, a frontend developer specializing in{' '}
         <span className='text-sky-600'>
-          React, TypeScript, Next.js, React Native, CSS, and Tailwind CSS.
+          React, TypeScript, Nextjs, React Native, CSS, and Tailwind CSS.
         </span>{' '}
         With 2 years of experience, I create dynamic and interactive user
         interfaces.
       </p>
       <p className='text-[#E5E5E5] my-4'>
         I excel in building scalable applications using React and TypeScript.
-        I&apos;m also proficient in Next.js for server-side rendering and static
+        I&apos;m also proficient in Nextjs for server-side rendering and static
         site generation. Additionally, I develop cross-platform mobile apps with
         React Native. Building state-of-the-art, easy to use, user-friendly
         websites and applications is truly a passion of mine.
@@ -37,7 +37,7 @@ const page = () => {
       </p>
       <p className='text-[#E5E5E5] my-4'>
         If you&apos;re looking for a passionate frontend developer with
-        expertise in React, TypeScript, Next.js, React Native, CSS, and Tailwind
+        expertise in React, TypeScript, Nextjs, React Native, CSS, and Tailwind
         CSS, let&apos;s connect. Thank you for considering my profile!"
       </p>
       <div className='flex gap-2'>
