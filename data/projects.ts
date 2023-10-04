@@ -10,6 +10,26 @@ export default [
       'Beach Bar Reform is a React web application designed to enhance the dining experience in restaurants by providing a seamless QR-scanning menu for customers. The application aims to reduce physical contact between customers and menus, making it more hygienic and convenient, especially in a post-pandemic world.',
   },
   {
+    title: 'Travel Blog',
+    imgUrl:
+      'https://github.com/devemit/Weather-app-JS/assets/107273888/fd3dfece-0ef1-4c3d-87f0-3e8c98822fbe',
+    tech: ['Typescript', 'Nextjs13', 'CSS'],
+    liveSite: 'https://traveldotblog.vercel.app/',
+    seeCode: 'https://github.com/devemit/travel-blog',
+    description:
+      'A web-based Travel Blog built using React and TypeScript. This project allows users to share their travel experiences, including photos and stories, in an interactive and visually appealing format.',
+  },
+  {
+    title: 'Notify | Notes App',
+    imgUrl:
+      'https://github.com/devemit/Weather-app-JS/assets/107273888/802807c3-9030-4e39-bac7-961c16b23a3d',
+    tech: ['Typescript', 'Nextjs13', 'TailwindCSS'],
+    liveSite: 'https://notifypro.vercel.app/',
+    seeCode: 'https://github.com/devemit/todo-app',
+    description:
+      'A web-based note-taking application built with React and TypeScript. Users can create, edit, view, and delete notes. Notes are saved locally using localStorage for persistence.',
+  },
+  {
     title: 'E-Commerce Website',
     imgUrl:
     'https://user-images.githubusercontent.com/107273888/226775835-86d65498-a4f5-4216-8379-c348160de964.png',
