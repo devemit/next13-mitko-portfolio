@@ -10,6 +10,16 @@ export default [
       'Beach Bar Reform is a React web application designed to enhance the dining experience in restaurants by providing a seamless QR-scanning menu for customers. The application aims to reduce physical contact between customers and menus, making it more hygienic and convenient, especially in a post-pandemic world.',
   },
   {
+    title: 'E-Commerce Website',
+    imgUrl:
+    'https://user-images.githubusercontent.com/107273888/226775835-86d65498-a4f5-4216-8379-c348160de964.png',
+    tech: ['React', 'Tailwind CSS'],
+    liveSite: 'https://mitkos-shop-site.netlify.app',
+    seeCode: 'https://github.com/devemit/E-commerce-Website',
+    description:
+    'Ratio store is a  e-commerce platform build with React, a popular JavaScript library for building user interfaces. The goal of this project was to develop a modern and user-friendly online shopping experience that would allow customers to browse products, add items to their cart, and complete the checkout process seamlessly. ',
+  },
+  {
     title: 'Travel Blog',
     imgUrl:
       'https://github.com/devemit/Weather-app-JS/assets/107273888/fd3dfece-0ef1-4c3d-87f0-3e8c98822fbe',
@@ -22,22 +32,23 @@ export default [
   {
     title: 'Notify | Notes App',
     imgUrl:
-      'https://github.com/devemit/Weather-app-JS/assets/107273888/802807c3-9030-4e39-bac7-961c16b23a3d',
+      'https://github.com/devemit/codeart-test-project/assets/107273888/7075015b-6d2f-4964-aaa5-8fce6eeecb2c',
     tech: ['Typescript', 'Nextjs13', 'TailwindCSS'],
     liveSite: 'https://notifypro.vercel.app/',
     seeCode: 'https://github.com/devemit/todo-app',
     description:
       'A web-based note-taking application built with React and TypeScript. Users can create, edit, view, and delete notes. Notes are saved locally using localStorage for persistence.',
   },
+ 
   {
-    title: 'E-Commerce Website',
+    title: 'Glass Maestros',
     imgUrl:
-    'https://user-images.githubusercontent.com/107273888/226775835-86d65498-a4f5-4216-8379-c348160de964.png',
-    tech: ['React', 'Tailwind CSS'],
-    liveSite: 'https://mitkos-shop-site.netlify.app',
-    seeCode: 'https://github.com/devemit/E-commerce-Website',
+      'https://github.com/devemit/codeart-test-project/assets/107273888/9a3b30e2-983a-4257-96b0-239b11b58d22',
+    tech: ['Typescript', 'Nextjs13', 'TailwindCSS'],
+    liveSite: 'https://glassmaestros.vercel.app/',
+    seeCode: 'https://github.com/devemit/business-promote-website',
     description:
-    'Ratio store is a  e-commerce platform build with React, a popular JavaScript library for building user interfaces. The goal of this project was to develop a modern and user-friendly online shopping experience that would allow customers to browse products, add items to their cart, and complete the checkout process seamlessly. ',
+      'Glass Maestros: A TypeScript and Tailwind CSS website that showcases the artistry of a glass installation firm, promoting their craftsmanship with a gallery of stunning installations and essential service information.The website not only demonstrates the companys proficiency in working with glass but also provides essential information about their services, contact details, and perhaps even client testimonials.',
   },
   {
     title: 'Cinemania/Netflix UI',
@@ -69,7 +80,7 @@ export default [
     liveSite: 'https://mitko-portfolio.netlify.app/',
     seeCode: 'https://github.com/devemit/Portfolio-Page',
     description:
-      'This is my first personal portfolio which i used to show my skills and projects.',
+      'This website is a digital showcase of my work and expertise, serving as a visual resume and a powerful tool to display my skills, projects, and contact information.',
   },
 
   {
