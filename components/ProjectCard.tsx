@@ -17,7 +17,7 @@ const ProjectCard: React.FC<ProjectProps> = ({
          <div className='relative w-full h-[200px]'>
             <Image src={imgUrl} alt='project-image' fill />
          </div>
-         <p className='my-2 text-sm'>{description}</p>
+         <p className='my-2 text-base'>{description}</p>
          <div className='my-2'>
             Technology used:
             {tech.map((el, id) => (
