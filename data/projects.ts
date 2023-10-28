@@ -12,12 +12,12 @@ export default [
   {
     title: 'E-Commerce Website',
     imgUrl:
-    'https://user-images.githubusercontent.com/107273888/226775835-86d65498-a4f5-4216-8379-c348160de964.png',
+      'https://user-images.githubusercontent.com/107273888/226775835-86d65498-a4f5-4216-8379-c348160de964.png',
     tech: ['React', 'Tailwind CSS'],
     liveSite: 'https://mitkos-shop-site.netlify.app',
     seeCode: 'https://github.com/devemit/E-commerce-Website',
     description:
-    'Ratio store is a  e-commerce platform build with React, a popular JavaScript library for building user interfaces. The goal of this project was to develop a modern and user-friendly online shopping experience that would allow customers to browse products, add items to their cart, and complete the checkout process seamlessly. ',
+      'Ratio store is a  e-commerce platform build with React, a popular JavaScript library for building user interfaces. The goal of this project was to develop a modern and user-friendly online shopping experience that would allow customers to browse products, add items to their cart, and complete the checkout process seamlessly. ',
   },
   {
     title: 'Travel Blog',
@@ -39,7 +39,7 @@ export default [
     description:
       'A web-based note-taking application built with React and TypeScript. Users can create, edit, view, and delete notes. Notes are saved locally using localStorage for persistence.',
   },
- 
+
   {
     title: 'Glass Maestros',
     imgUrl:
@@ -71,25 +71,14 @@ export default [
     description:
       'In my recent project, I delved into the fascinating realm of cryptocurrencies by designing and developing a comprehensive website aimed at providing users with valuable insights, news, and resources related to the world of digital assets. This project was driven by the goal of creating a platform where both beginners and experienced enthusiasts can learn, stay updated, and engage with the rapidly evolving cryptocurrency landscape. ',
   },
-
   {
-    title: 'Portfolio Website',
+    title: 'Password Generator',
     imgUrl:
-      'https://user-images.githubusercontent.com/107273888/212379246-16fbfe8e-ae06-43ce-ac24-e884d7010e2e.png',
-    tech: ['React', 'Tailwind CSS'],
-    liveSite: 'https://mitko-portfolio.netlify.app/',
-    seeCode: 'https://github.com/devemit/Portfolio-Page',
+      'https://github.com/devemit/Weather-app-JS/assets/107273888/447b98a4-2149-444d-8bcb-cd561a29bfe1',
+    tech: ['Typescript', 'Next13', 'Tailwind CSS'],
+    liveSite: 'https://password-generator-pro.vercel.app/',
+    seeCode: 'https://github.com/devemit/password-generator',
     description:
-      'This website is a digital showcase of my work and expertise, serving as a visual resume and a powerful tool to display my skills, projects, and contact information.',
-  },
-
-  {
-    title: 'Linktree Clone',
-    imgUrl:
-      'https://user-images.githubusercontent.com/107273888/212404531-60b20eaf-c810-4a91-a85e-f7347926cb9d.png',
-    tech: ['React', 'Tailwind CSS'],
-    liveSite: 'https://linktree-mitko.netlify.app/',
-    seeCode: 'https://github.com/devemit/linktree-clone',
-    description: 'Linktree Clone',
+      'Create a secure and customizable password generator with this TypeScript and React application. Generate strong passwords with various options like length, special characters, and numbers. Easily copy the generated passwords to your clipboard for enhanced security and convenience.',
   },
 ];
